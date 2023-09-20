@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Sudoku_Solver/static/css/main.b5e2329e.css",
+    "main.js": "/Sudoku_Solver/static/js/main.c90447ea.js",
+    "static/js/787.be17247d.chunk.js": "/Sudoku_Solver/static/js/787.be17247d.chunk.js",
+    "static/media/logo.png": "/Sudoku_Solver/static/media/logo.cd9b96420db769f6f19d.png",
+    "static/media/nosize.png": "/Sudoku_Solver/static/media/nosize.8712e4724c4d60ceaed0.png",
+    "index.html": "/Sudoku_Solver/index.html",
+    "main.b5e2329e.css.map": "/Sudoku_Solver/static/css/main.b5e2329e.css.map",
+    "main.c90447ea.js.map": "/Sudoku_Solver/static/js/main.c90447ea.js.map",
+    "787.be17247d.chunk.js.map": "/Sudoku_Solver/static/js/787.be17247d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5e2329e.css",
+    "static/js/main.c90447ea.js"
+  ]
+}
